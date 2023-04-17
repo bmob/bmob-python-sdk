@@ -3,6 +3,7 @@
 
 # 下载Bmob Python SDK文件
 Bmob Python SDK文件下载地址：[bmob.py](./bmob.py) 
+
 把SDK文件放到你创建的python工程里面。
 
 # 引用Bmob Python SDK文件
